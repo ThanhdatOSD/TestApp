@@ -1,0 +1,41 @@
+{
+  "data":{
+    "match": {
+      "id": 1,
+      "handicap": 0.5,
+      "teams":[
+        {
+          "id": 1,
+          "name": "Liverpool",
+          "logo": "https://upload.wikimedia.org/wikipedia/vi/thumb/0/0c/Liverpool_FC.svg/175px-Liverpool_FC.svg.png",
+          "isNational": true
+          },
+          {
+            "id": 2,
+            "name": "Manchester United",
+            "logo": "https://i.pinimg.com/originals/30/b5/49/30b54999b098050158ed13a1ecdcaab0.jpg",
+            "isNational": true
+          }
+      ],
+      "betAmount": 58000,
+      "status": 2,
+      "scoreTeamHome": 0,
+      "scoreTeamAway": 0,
+      "totalBetQuantity": 0,
+      "teamBetQuantity": [19, 2, 0],
+      "league": null,
+      "startTime": "2022-02-06T14:00:00.000Z",
+      "bets": [
+        {
+          "id":1,
+          "teamBet": 1,
+          "createdAt": "2022-01-12T16:12:22.000Z",
+          "isWin":null
+        }
+      ]
+    },
+    "teamUserBet": 1,
+    "isWin": null
+  },
+  "message": "Get match successfully"
+}

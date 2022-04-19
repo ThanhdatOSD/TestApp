@@ -1,0 +1,37 @@
+
+{
+  "match": 1,
+  "teamBet": 1,
+  "users": [
+    {
+      "idUser": 1,
+      "fullName": "Nguyen Thanh Dat",
+      "avatar": "https://vcdn-thethao.vnecdn.net/2020/03/27/neymar-2851-1585327135.jpg",
+      "betTime": "12/4/2022T15:20:00"
+    },
+    {
+      "idUser": 2,
+      "fullName": "Nguyen Thanh Dat",
+      "avatar": "https://vcdn-thethao.vnecdn.net/2020/03/27/neymar-2851-1585327135.jpg",
+      "betTime": "12/4/2022T15:20:00"
+    },
+    {
+      "idUser": 3,
+      "fullName": "Nguyen Thanh Dat",
+      "avatar": "https://vcdn-thethao.vnecdn.net/2020/03/27/neymar-2851-1585327135.jpg",
+      "betTime": "12/4/2022T15:20:00"
+    },
+    {
+      "idUser": 4,
+      "fullName": "Nguyen Thanh Dat",
+      "avatar": "https://vcdn-thethao.vnecdn.net/2020/03/27/neymar-2851-1585327135.jpg",
+      "betTime": "12/4/2022T15:20:00"
+    },
+    {
+      "idUser": 5,
+      "fullName": "Nguyen Thanh Dat",
+      "avatar": "https://vcdn-thethao.vnecdn.net/2020/03/27/neymar-2851-1585327135.jpg",
+      "betTime": "12/4/2022T15:20:00"
+    }
+  ]
+}
